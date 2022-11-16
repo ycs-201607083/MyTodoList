@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/MyTodo"
+        android:enabled="true"
+        android:icon="@drawable/list_icon"
+        android:title="Todo"
+        />
+
+    <item
+        android:id="@+id/Time"
+        android:enabled="true"
+        android:icon="@drawable/time_icon"
+        android:title="Time"
+        />
+
+    <item
+        android:id="@+id/info"
+        android:enabled="true"
+        android:icon="@drawable/info_icon"
+        android:title="Info"
+        />
+</menu>
